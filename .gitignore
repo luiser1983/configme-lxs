@@ -1,0 +1,12 @@
+/.metadata/
+.gitignore
+RemoteSystemsTempFiles/.project
+conme-l/.gitignore
+conme-l/.mvn/wrapper/maven-wrapper.jar
+conme-l/.mvn/wrapper/maven-wrapper.properties
+conme-l/mvnw
+conme-l/mvnw.cmd
+conme-l/pom.xml
+conme-l/src/main/java/com/example/demo/ConmeLApplication.java
+conme-l/src/main/resources/application.properties
+conme-l/src/test/java/com/example/demo/ConmeLApplicationTests.java
